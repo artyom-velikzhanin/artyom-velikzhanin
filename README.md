@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @artyom-velikzhanin
+- 👋 AYYYE, I’m @artyom-velikzhanin 🤩
 - 👀 I’m interested in Product Analysis
-- 🌱 I’m currently learning Statistics. Python, SQL and others
+- 🌱 I’m currently learning Statistics. Python, SQL and other
 - 📫 How to reach me: telegram @ImportPandasAsPd
-
